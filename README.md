@@ -29,5 +29,8 @@ Oj = 1/(1+e^(-s)j)<br>
 
 Ej = Oj (1 - Oj) ∑k Wjk Ek
 
+最后更新权重:<br>
+
 Wij = wij + △wij = wij + (l) Oi Ei<br>
 
+就得到了新的权重然后无限循环来寻找一套权重来适应预设的输入与期望输出。

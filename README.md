@@ -1,4 +1,4 @@
-# BPNN
+# BPNN简单神经网络计算
 Back Propagation 用python写一个最简单的三层神经网络算法。<br>
 最简单的三层神经网络，大多数都是使用np.array写的，因为用矩阵可以很轻松的进行数据计算，表达等操作。<br>
 
